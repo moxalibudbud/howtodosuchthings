@@ -1,4 +1,4 @@
-# Amazon SES Setup for StokSmart Campaign Email
+# Amazon SES Setup for Campaign Email
 
 ## 1. Overview
 
